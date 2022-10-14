@@ -22,6 +22,7 @@
   - Criamos  um dataframe trazendo as seguintes colunas das tabelas (PRODUTO,  DETALHE_PEDIDO)
 
 # Libs utilizadas
+* Python 3.8: Download em https://www.python.org/downloads
 * Spark: sudo pip install spark
 * PySpark: sudo pip install pyspark
 * Pandas: pip install pandas
