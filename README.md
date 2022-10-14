@@ -1,4 +1,7 @@
 # ETL utilizando PySpark
+
+![Estrutura](https://user-images.githubusercontent.com/61874620/195886175-2f0455b1-b81e-4044-9725-0c8aa87eddc6.png)
+
 **Parte 1 - Integração de dados (EXTRACT AND LOAD)**
 - Instalamos e importarmos as bibliotecas do spark e pyspark
 - Criamos uma conexão com o banco de dados
@@ -25,3 +28,4 @@
 * Pyodbc: sudo pip install pyodbc
 * Sqlalcjemy: sudo pip install sqlalchemy
 * Boto3: pip install boto3
+
