@@ -2,12 +2,12 @@
 
 ![Estrutura](https://user-images.githubusercontent.com/61874620/195886175-2f0455b1-b81e-4044-9725-0c8aa87eddc6.png)
 
-**Parte 1 - Integração de dados (EXTRACT AND LOAD)**
+**Parte 1**
 - Instalamos e importarmos as bibliotecas do spark e pyspark
 - Criamos uma conexão com o banco de dados
 - Lemos todas as tabelas com o pandas, transformamos em um dataframe do spark e gravamos como parquet.
 
-**Parte 2 - Transformação de dados (TRANSFORM) - Utilize os dados gravados no colab.**
+**Parte 2**
 - Criamos um dataframe juntando as tabelas.
 - Criamos um dataframe juntando alguns dados.
 
